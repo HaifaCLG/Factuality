@@ -1,0 +1,5 @@
+*.csv binary
+*.xlsx binary
+*.safetensors binary
+*.arrow binary
+vocab.txt binary
